@@ -18,3 +18,11 @@ pdf 转换器 ：可以转换为excel word,同时可以提取pdf中图片，还�
 
 ## 详见
     https://www.cnblogs.com/Old-Kang/articles/17932598.html
+
+![Img](https://img2023.cnblogs.com/blog/2007173/202312/2007173-20231228134705922-2042167209.png)    
+
+![Img](https://img2023.cnblogs.com/blog/2007173/202312/2007173-20231228135344335-120624622.png)
+
+![Img](https://img2023.cnblogs.com/blog/2007173/202312/2007173-20231228135412990-1610691810.png)
+
+![Img](https://img2023.cnblogs.com/blog/2007173/202312/2007173-20231228135446218-2086995505.png)
