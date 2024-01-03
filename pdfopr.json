@@ -1,0 +1,157 @@
+{
+ "version": "auto-py-to-exe-configuration_v1",
+ "pyinstallerOptions": [
+  {
+   "optionDest": "noconfirm",
+   "value": true
+  },
+  {
+   "optionDest": "filenames",
+   "value": "/pdfopr/opr.py"
+  },
+  {
+   "optionDest": "onefile",
+   "value": true
+  },
+  {
+   "optionDest": "console",
+   "value": false
+  },
+  {
+   "optionDest": "icon_file",
+   "value": "/pdfopr/Pdf.ico"
+  },
+  {
+   "optionDest": "clean_build",
+   "value": false
+  },
+  {
+   "optionDest": "strip",
+   "value": false
+  },
+  {
+   "optionDest": "noupx",
+   "value": false
+  },
+  {
+   "optionDest": "disable_windowed_traceback",
+   "value": false
+  },
+  {
+   "optionDest": "embed_manifest",
+   "value": true
+  },
+  {
+   "optionDest": "uac_admin",
+   "value": false
+  },
+  {
+   "optionDest": "uac_uiaccess",
+   "value": false
+  },
+  {
+   "optionDest": "argv_emulation",
+   "value": false
+  },
+  {
+   "optionDest": "bootloader_ignore_signals",
+   "value": false
+  },
+  {
+   "optionDest": "win_private_assemblies",
+   "value": false
+  },
+  {
+   "optionDest": "win_no_prefer_redirects",
+   "value": false
+  },
+  {
+   "optionDest": "ascii",
+   "value": false
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "tkinter"
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "pdf2docx"
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "spire"
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "ttkbootstrap"
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "tkinter.filedialog"
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "os"
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "pathlib"
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "threading"
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "pandas"
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "tabula"
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "re"
+  },
+  {
+   "optionDest": "datas",
+   "value": "/pdfopr/tabula-1.0.5-jar-with-dependencies.jar;tabula"
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "PIL"
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "filetype"
+  },
+  {
+   "optionDest": "datas",
+   "value": "/pdfopr/Arrow Down.png;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "/pdfopr/Arrow Up.png;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "/pdfopr/Pdf.ico;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "/pdfopr/Zoom In.png;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "/pdfopr/Zoom Out.png;."
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "PyMuPDF"
+  }
+ ],
+ "nonPyinstallerOptions": {
+  "increaseRecursionLimit": true,
+  "manualArguments": ""
+ }
+}
